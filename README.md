@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, .NET, JS**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **thanhnh2705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
